@@ -1,2 +1,22 @@
-# Guess The Number Python
-A simple Python number guessing game using loops and random module.
+# Guess The Number Game
+
+A simple number guessing game built with Python.
+
+## Features
+
+* Random number generation
+* Higher / Lower hints
+* Attempt counter
+* User input handling
+
+## Concepts Used
+
+* Loops
+* Conditions
+* Random Module
+* Variables
+* Input/Output
+
+## Author
+
+Het Patel
