@@ -10,7 +10,7 @@ try:
  guess = int(input("Guess The Number:"))
 except ValueError:
   print("Please Enter Valid Number")
-
+  exit()
 counter = 1
 
 while guess != jackpot:
